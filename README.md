@@ -13,6 +13,6 @@ In this file you will see the notebook laid out as follows
 
 5) Using inferential statistics to examine if there is a significant difference in the median house prices between houses on and off the Charles River. 
 
-6) 
+6) Create a neural network using keras that can predict the median house price based on the other variables in the dataset.
 
 7) A list of the references used in completing the assignment.
