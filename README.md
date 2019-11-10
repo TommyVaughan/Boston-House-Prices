@@ -15,4 +15,6 @@ In this file you will see the notebook laid out as follows
 
 6) Create a neural network using keras that can predict the median house price based on the other variables in the dataset.
 
-7) A list of the references used in completing the assignment.
+7) Conclusions on the assignment.
+
+8) A list of the references used in completing the assignment.
